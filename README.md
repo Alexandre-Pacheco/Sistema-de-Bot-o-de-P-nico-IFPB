@@ -1,7 +1,9 @@
 Sistema de Botão de Pânico - IFPB
 
 Este repositório contém o código-fonte e a documentação do Sistema de Botão de Pânico, um projeto acadêmico desenvolvido por Alexandre Freitas de Lima Pacheco e Robson Luan Fernandes Pereira como requisito para a disciplina de Padrões de Projetos do curso de Engenharia de Computação do IFPB - Câmpus Campina Grande.
+
 🚀 Demonstração ao Vivo
+
 Acesse a aplicação em funcionamento através do link abaixo:
 https://github.com/Alexandre-Pacheco/Sistema-de-Bot-o-de-P-nico-IFPB
 
@@ -29,7 +31,9 @@ https://github.com/Alexandre-Pacheco/Sistema-de-Bot-o-de-P-nico-IFPB
 🎯 Sobre o Projeto
 
 O Sistema de Botão de Pânico é uma solução web projetada para aumentar a segurança da comunidade acadêmica (alunos, professores e técnicos) dentro das instalações do campus. Ele oferece um meio rápido e eficaz de solicitar ajuda em situações de emergência, enviando um alerta geolocalizado em tempo real para uma central de monitoramento administrada pela equipe de segurança.
+
 📋 Funcionalidades Principais
+
 •	Dois Perfis de Acesso:
 o	Área do Usuário: Interface limpa para alunos e professores acionarem o botão de pânico.
 o	Área do Administrador: Painel protegido por login para a equipe de segurança gerenciar alertas e usuários.
@@ -50,7 +54,9 @@ Command	Para encapsular a ação de TriggerAlertCommand (acionar o pânico).	Tra
 Facade	Na PanicSystemFacade, que simplifica a comunicação entre a interface do usuário e os subsistemas complexos.	Prover uma interface simplificada para um conjunto complexo de funcionalidades.
 Adapter	Simulado no AdminAuthService para representar a integração com um sistema de autenticação legado.	Permitir que interfaces incompatíveis trabalhem juntas.
 Builder	No IncidentReportBuilder, para construir relatórios complexos de forma flexível e passo a passo.	Separar a construção de um objeto complexo de sua representação.
+
 📂 Estrutura do Código
+
 Para facilitar a demonstração e o compartilhamento, toda a aplicação está contida em um único arquivo index.html. Dentro dele, a estrutura está organizada da seguinte forma:
 1.	<head>: Importação de fontes e do Tailwind CSS, além de estilos básicos.
 2.	<body>: Estrutura HTML de todas as telas (Seleção de Perfil, Usuário, Login de Admin, Painel de Admin).
@@ -59,8 +65,12 @@ o	Gerenciamento de Views (telas).
 o	Dados Globais e Função de Log.
 o	Implementação de cada um dos 9 Padrões de Projeto, com comentários explicativos.
 o	Lógica da Interface do Usuário (UI) e associação de eventos.
+
 👨‍💻 Autores
+
 •	Alexandre Freitas de Lima Pacheco
 •	Robson Luan Fernandes Pereira
+
 📄 Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
