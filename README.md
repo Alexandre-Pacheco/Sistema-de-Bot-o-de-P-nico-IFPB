@@ -5,7 +5,7 @@ Este repositório contém o código-fonte e a documentação do Sistema de Botã
 🚀 Demonstração ao Vivo
 
 Acesse a aplicação em funcionamento através do link abaixo:
-https://github.com/Alexandre-Pacheco/Sistema-de-Bot-o-de-P-nico-IFPB
+https://github.com/Alexandre-Pacheco/Sistema-de-Bot-o-de-P-nico-IFPB](https://alexandre-pacheco.github.io/Sistema-de-Bot-o-de-P-nico-IFPB/
 
 ✨ Visão Geral da Aplicação
 
